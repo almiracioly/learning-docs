@@ -1,0 +1,8 @@
+{
+  "type": "mdx",
+  "permalink": "/hello-world",
+  "source": "@site/src/pages/hello-world.md",
+  "title": "Hello World!",
+  "description": "Starting a new page...",
+  "frontMatter": {}
+}

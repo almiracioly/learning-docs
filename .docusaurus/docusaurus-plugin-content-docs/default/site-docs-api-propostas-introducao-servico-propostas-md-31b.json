@@ -1,0 +1,20 @@
+{
+  "unversionedId": "api-propostas/introducao-servico-propostas",
+  "id": "api-propostas/introducao-servico-propostas",
+  "title": "introducao-servico-propostas",
+  "description": "",
+  "source": "@site/docs/api-propostas/introducao-servico-propostas.md",
+  "sourceDirName": "api-propostas",
+  "slug": "/api-propostas/introducao-servico-propostas",
+  "permalink": "/docs/api-propostas/introducao-servico-propostas",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-propostas/introducao-servico-propostas.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  }
+}
